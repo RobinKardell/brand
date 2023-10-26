@@ -1,2 +1,0 @@
-<?= \Roots\view('partials.comments', $data ?? get_defined_vars())->render(); ?>
-<?php /**PATH /Users/robinkardell/Codes/wordpressonvalet/wp-content/themes/sage/resources/views/partials/comments.blade.php ENDPATH**/ ?>
